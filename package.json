@@ -1,0 +1,19 @@
+{
+  "name": "number-processing-pack",
+  "version": "1.0.2",
+  "description": "js相关数字处理方法(精度,千分位处理等)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dingzuke/number-processing-pack.git"
+  },
+  "author": "dingzuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dingzuke/number-processing-pack/issues"
+  },
+  "homepage": "https://github.com/dingzuke/number-processing-pack#readme"
+}
